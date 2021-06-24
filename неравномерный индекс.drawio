@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T18:36:21.884Z" agent="5.0 (Macintosh)" etag="MN-jyDbkFSrY4sGvF8Yo" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T18:38:54.227Z" agent="5.0 (Macintosh)" etag="FTIRsuOW3ZZpEN89PKQn" version="14.8.0" type="github">
   <diagram id="DbPqMILzg-7weG4GWjl4" name="Page-1">
     <mxGraphModel dx="1995" dy="2255" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="180" y="-440" width="420" height="340" as="geometry" />
         </mxCell>
         <mxCell id="mj10lTI_VtpWvBjkAOqV-27" value="..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="260" y="-330" width="185" height="60" as="geometry" />
+          <mxGeometry x="210" y="-330" width="185" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mj10lTI_VtpWvBjkAOqV-28" value="...." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="190" y="-200" width="110" height="60" as="geometry" />
@@ -52,7 +52,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mj10lTI_VtpWvBjkAOqV-39" value="&lt;b&gt;Index block №21&lt;/b&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;gradientColor=#ea6b66;" parent="1" vertex="1">
-          <mxGeometry x="460" y="-270" width="110" height="20" as="geometry" />
+          <mxGeometry x="410" y="-290" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mj10lTI_VtpWvBjkAOqV-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=#FF3F0F;dashed=1;" parent="1" source="mj10lTI_VtpWvBjkAOqV-44" target="mj10lTI_VtpWvBjkAOqV-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
